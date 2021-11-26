@@ -16,4 +16,6 @@ Pillars
 ...
 
 Features
-...
+Cloud as the "basket". 2 Power up stars, one called "Shooting Star" that allows you to speed up your cloud, and
+"Comet" which enlarges the cloud for more surface area. There is also a power down called "Twinkle" that shrinks
+the cloud if accidentally caught.
