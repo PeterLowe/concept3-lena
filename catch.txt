@@ -7,8 +7,10 @@ boring fruit in a basket, you get to use a big fluffy cloud to catch falling sta
 
 30 second gameplay description:
 You start the game and it begins with a countdown. The moment it counts from 3 to 1, you have to start
-moving the cloud at the bottom of your screen to catch the stars that have began to fall. The more stars you
-get, the yeet
+moving the cloud at the bottom of your screen with your mouse OR arrow keys to catch the stars that have began to 
+fall. The more stars you get, the higher your score is. Certain stars give you certain power ups depending on the
+star. There is the "shooting star" which gives the player speed, the "comet" which increases the size of the cloud,
+and a defected power up "twinkle" which if caught, shrinks the cloud so that it's harder to catch the stars..
 
 Pillars
 ...
