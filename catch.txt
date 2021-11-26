@@ -1,0 +1,17 @@
+Title:
+Starfetch
+
+Elavator Pitch:
+A game that has your favourite fruit catch mechanic except it's "out of this world"! Get it? Instead of catching
+boring fruit in a basket, you get to use a big fluffy cloud to catch falling stars!
+
+30 second gameplay description:
+You start the game and it begins with a countdown. The moment it counts from 3 to 1, you have to start
+moving the cloud at the bottom of your screen to catch the stars that have began to fall. The more stars you
+get, the yeet
+
+Pillars
+...
+
+Features
+...
